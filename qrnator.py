@@ -2,6 +2,11 @@
 """
 Script para generar códigos qr con el módulo qrcode.
 
+Es necesario instalar los módulos qrcode y pillow para poder ejecutar este script.
+
+pip install qrcode
+pip install pillow
+
 """
 
 # Importación de los módulos que se usarán.
